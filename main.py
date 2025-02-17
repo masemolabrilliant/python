@@ -7,4 +7,4 @@ print(f"Hello {firms_name}")
 print(f" {firms_name} loves a fruit called {fruit}")
 #intergers
 age =20
-print(f"you are {age} years old")
+print(f"you are {age} years old")ssd
